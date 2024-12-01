@@ -786,6 +786,6 @@ footer {
 }
 
 .privacy-label .checkbox-custom {
-    display: inline-flex;
+    display: inline-flex; !important
 }
 
