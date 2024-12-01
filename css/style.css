@@ -566,7 +566,7 @@ footer {
 .subscribe-icon {
     margin-left: 16px;
 }
-/* Backdrop Styling */
+
 .modal-window {
     position: fixed;
     top: 0;
@@ -582,7 +582,7 @@ footer {
     visibility: visible;
 }
 
-/* Modal Styling */
+
 .modal-container {
     position: absolute;
     top: 50%;
@@ -597,7 +597,7 @@ footer {
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-/* Close Button */
+
 .modal-close {
     position: absolute;
     top: 24px;
@@ -630,7 +630,7 @@ footer {
     fill: #ffffff;
 }
 
-/* Modal Title */
+
 .modal-title {
     font-weight: 500;
     font-size: 16px;
@@ -641,7 +641,7 @@ footer {
     margin-bottom: 16px;
 }
 
-/* Form */
+
 .modal-form {
     display: flex;
     flex-direction: column;
