@@ -648,7 +648,7 @@ footer {
     gap: 16px;
 }
 
-modal-form :first-child {
+.modal-form>div:first-child {
     margin-bottom: 8px;
 }
 
@@ -710,7 +710,6 @@ modal-form :first-child {
     padding: 8px 16px;
 }
 
-/* Privacy */
 .privacy {
     margin-bottom: 24px;
 }
@@ -786,6 +785,7 @@ modal-form :first-child {
     color: #4d5ae5;
 }
 
-.visually-hidden span {
+.privacy-label .checkbox-custom {
     display: inline-flex;
 }
+
